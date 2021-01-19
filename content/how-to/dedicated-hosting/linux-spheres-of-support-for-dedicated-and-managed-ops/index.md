@@ -18,9 +18,8 @@ This article outlines our support of software and server configurations for mach
 The following operating systems are supported for both Dedicated and Managed Operations:
 
 - CentOS&reg; 7
-- CentOS 6
 - Red Hat&reg; Enterprise Linux&reg; 7
-- Red Hat Enterprise Linux 6
+- Red Hat Enterprise Linux 8
 - Ubuntu&reg; 18.04 LTS (Bionic Beaver)
 - Ubuntu 16.04 LTS (Xenial Xerus)
 
@@ -164,7 +163,7 @@ The Support team for Linux will, under reasonable endeavors and without warranty
 - [MySQL (vendor)](https://dev.mysql.com/downloads/repo/)
 - [NGINX (vendor)](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
 - [Percona (vendor)](https://www.percona.com/doc/percona-server/LATEST/installation.html#installing-percona-server-from-repositories)
-- [Varnish (vendor)](https://www.varnish-cache.org/releases/install_redhat.html)
+- [Varnish (vendor)](https://packagecloud.io/varnishcache/)
 
 _When packages from 3rd party vendors are installed, customers are responsible for vendor escalation,
 patching, and updates._
